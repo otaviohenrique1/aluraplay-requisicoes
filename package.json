@@ -1,0 +1,12 @@
+{
+  "name": "aluraplay-requisicoes",
+  "version": "1.0.0",
+  "description": "## Descrição",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch backend/videos.json"
+  },
+  "keywords": [],
+  "author": "Otavio Henrique de Lima e Silva",
+  "license": "ISC"
+}
