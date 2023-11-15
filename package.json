@@ -1,10 +1,10 @@
 {
   "name": "aluraplay-requisicoes",
   "version": "1.0.0",
-  "description": "## Descrição",
+  "description": "Projeto feito no curso de 'JavaScript: criando requisições' da Alura.",
   "main": "index.js",
   "scripts": {
-    "dev": "json-server --watch backend/videos.json"
+    "dev": "json-server --watch db.json"
   },
   "keywords": [],
   "author": "Otavio Henrique de Lima e Silva",

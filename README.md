@@ -1,8 +1,8 @@
-# numero-secreto
+# aluraplay-requisicoes
 
 ## Descrição
 
-Projeto feito no curso de 'JavaScript validações e reconhecimento de voz' da Alura.
+Projeto feito no curso de 'JavaScript: criando requisições' da Alura.
 
 ## Instruções
 
